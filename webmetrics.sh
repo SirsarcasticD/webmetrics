@@ -10,7 +10,7 @@ then
 fi
 
 # Check if argument 1 is a file
-if [[ ! -f $1 ]]
+if [[ ! -f $file ]]
 then
         echo -e "Error: File 'this_file_does_not_exist' does not exist.\nUsage: ./webmetrics.sh <logfile>"
         exit 1
