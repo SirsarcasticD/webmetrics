@@ -5,8 +5,8 @@ Usage: ./webmetrics.sh <logfile>
 
 Providing these metrics:
 
-![Metrics](metrics_image.png)
+![Metrics](images/metrics_image.png)
 
 From:
 
-![WebLogs](logs_image.png)
+![WebLogs](images/logs_image.png)
